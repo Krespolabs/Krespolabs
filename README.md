@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Samson Onuh
 
-<!--
-**Krespolabs/Krespolabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android developer focused on Kotlin, Jetpack Compose, Firebase, and Clean Architecture. I'm building **Lovinex**, a dating product in development, and **KrespoAI**, an AI-prompt business for creators and entrepreneurs.
 
-Here are some ideas to get you started:
+## Featured work
+- [Lovinex](https://github.com/Krespolabs/Lovinex) — Dating product in development.
+- [KrespoAI Hub](https://github.com/Krespolabs/Krespoai-hub) — A React/Vite app with Supabase for creators and entrepreneurs.
+- [KrespoAI](https://krespoai.netlify.app) — AI prompt packs for creators, entrepreneurs, and builders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+Kotlin · Jetpack Compose · Firebase · Clean Architecture · TypeScript · JavaScript
+
+## Connect
+[LinkedIn](https://linkedin.com/in/onuh-samson)
